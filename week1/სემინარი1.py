@@ -100,4 +100,4 @@
 
 # Congratulations! You have successfully installed and configured Python on your Linux or macOS machine. In the next seminar, we'll dive into writing your first Python program. If you encounter any issues during this installation process, feel free to reach out to your tutor during the upcoming lab session for assistance.
 
-print("Hello Workd! <3")
+print("Hello World! <3")
