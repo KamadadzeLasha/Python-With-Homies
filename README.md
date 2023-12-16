@@ -44,8 +44,8 @@ As a reminder, the homework solutions of the previous week will be found in the 
 If you're new to the repository, here's how you can get started:
 
 ```bash
-git clone https://github.com/your-username/python-with-homies.git
-cd python-with-homies
+git clone https://github.com/KamadadzeLasha/Python-With-Homies.git
+cd Python-With-Homies
 ```
 
 ## Happy coding! 🐍✨
