@@ -1,5 +1,7 @@
 # Install and Configure Python on Your Laptops/Computers
 
+# setup your git and github accounts for later use.
+
 # Welcome to the first seminar! In this session, we'll guide you through the process of installing and configuring Python on your Windows laptops or computers.
 
 # **For Windows:**
